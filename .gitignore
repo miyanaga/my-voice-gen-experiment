@@ -6,3 +6,4 @@ refs/
 generated/
 report/
 __pycache__/
+.DS_Store
