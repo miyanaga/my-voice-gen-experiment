@@ -1,0 +1,8 @@
+# 接続先（社内のホスト名などを含みうる）
+.env
+# 本人の声と、それを元に作った声。公開するものは選んで samples/ に置く
+recordings/
+refs/
+generated/
+report/
+__pycache__/

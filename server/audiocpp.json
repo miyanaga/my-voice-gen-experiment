@@ -1,0 +1,19 @@
+{
+  "host": "127.0.0.1",
+  "models": [
+    {
+      "id": "qwen3-tts-base",
+      "family": "qwen3_tts",
+      "task": "tts",
+      "mode": "offline",
+      "path": "models/qwen3-tts-12hz-1.7b-base-q8_0_v2.gguf"
+    },
+    {
+      "id": "qwen3-tts",
+      "family": "qwen3_tts",
+      "task": "tts",
+      "mode": "offline",
+      "path": "models/qwen3-tts-12hz-1.7b-customvoice-q8_0.gguf"
+    }
+  ]
+}
